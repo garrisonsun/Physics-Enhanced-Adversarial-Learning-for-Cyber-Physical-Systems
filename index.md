@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+This work combines cyber-physical system characteristicswith deep learning to develop a hybrid attack detection system. Using knowl-edge from both physical dynamics and data, we defend against bothcyber-physical attacks and adversarial attacks. 
 
-You can use the [editor on GitHub](https://github.com/garrisonsun/Physics-Enhanced-Adversarial-Learning-for-Cyber-Physical-Systems/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Video Demo
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<iframe width="800" height="450" src="https://youtu.be/UBOQGEZZ_dc" title="Model-aware False Data Injection Attack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Markdown
+<iframe width="800" height="450" src="https://youtu.be/XM2GLjwRTVU" title="Adversarially-masked Model-aware False Data Injection Attack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Authors
+### Guoxin Sun
+<img src="Sefi_modified_crop.jpg" alt="Guoxin Sun's profile picture" width="100" height="100" align="left" style="padding: 5px">Mr. [Guoxin Sun](https://electrical.eng.unimelb.edu.au/people/research-students) received the B.S. degree in 2017 and the M.E. degree in 2019 from the University of Melbourne. He is currently pursuing  the Ph.D. degree with the Electrical and Electronic Engineering Department, the University of Melbourne. His research interests lie in the domain of cyber-physical security, machine learning, game theory and system theory.
 
-```markdown
-Syntax highlighted code block
+### Tansu Alpcan
+<img src="tansu.jpg" alt="Tansu Alpcan's profile picture" width="100" height="100" align="left" style="padding: 5px">Prof. [Tansu Alpcan](https://findanexpert.unimelb.edu.au/profile/425318-tansu-alpcan)'s research interests include game, control, and optimisation theories; adversarial and distributed machine learning; networked and distributed system security; applications of machine and deep learning methods to communication, IoT, and Cyber-Physical Systems; smart grid, renewable integration, and electricity markets; wireless, cognitive and software-defined networks.
 
-# Header 1
-## Header 2
-### Header 3
+### Benjamin I. P. Rubinstein
+<img src="Ben1crop.jpg" alt="Benjamin I. P. Rubinstein's profile picture" width="100" height="100" align="left" style="padding: 5px">Prof. [Ben Rubinstein](https://findanexpert.unimelb.edu.au/profile/20074-ben-rubinstein) actively research topics in machine learning, security & privacy, databases such as adversarial learning, differential privacy and record linkage. Prior to joining the University of Melbourne in 2013, he enjoyed four years in the research divisions of Microsoft, Google, Intel and Yahoo!
 
-- Bulleted
-- List
+### Seyit Camtepe
+<img src="Seyit.jpg" alt="Seyit Camtepe's profile picture" width="100" height="100" align="left" style="padding: 5px">Dr [Seyit Camtepe](https://people.csiro.au/C/S/Seyit-Camtepe) is a Principal Research Scientist at CSIRO Data61. He received the PhD degree in Computer Science from Rensselaer Polytechnic Institute, New York, USA, in 2007. From 2007 to 2013, he was with the Technische Universitaet Berlin, Germany, as a Senior Researcher and Research Group Leader in Security. From 2013 to 2017, he worked as a Lecturer at the Queensland University of Technology, Australia. His research interests include topics from cyber security and ML, and applied and malicious cryptography.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Cite this work
+If you find this work useful, please consider to cite the following reference [paper](https://garrisonsun.github.io/End-to-end-atttack-detection-and-mitigation-framework/):
+```
+To Do
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/garrisonsun/Physics-Enhanced-Adversarial-Learning-for-Cyber-Physical-Systems/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Acknowledgments
+We gratefully acknowledge support from _the DSTG Next Generation Technology Fund_ and Data61 CSIRO CRP _"Adversarial Machine Learning for Cyber"_, and a Data61 CSIRO PhD scholarship.
