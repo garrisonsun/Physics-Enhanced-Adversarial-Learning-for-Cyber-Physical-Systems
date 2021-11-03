@@ -1,4 +1,4 @@
-This work combines cyber-physical system characteristicswith deep learning to develop a hybrid attack detection system. Using knowl-edge from both physical dynamics and data, we defend against bothcyber-physical attacks and adversarial attacks. 
+This work combines cyber-physical system characteristics with deep learning to develop a hybrid attack detection system. Using knowledge from both physical dynamics and data, we defend against both cyber-physical attacks and adversarial attacks. 
 
 ## Video Demo
 
