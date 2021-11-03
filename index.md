@@ -4,7 +4,6 @@ This work combines cyber-physical system characteristicswith deep learning to de
 
 <iframe width="800" height="450" src="https://youtu.be/UBOQGEZZ_dc" title="Model-aware False Data Injection Attack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="800" height="450" src="https://youtu.be/XM2GLjwRTVU" title="Adversarially-masked Model-aware False Data Injection Attack" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Authors
 ### Guoxin Sun
