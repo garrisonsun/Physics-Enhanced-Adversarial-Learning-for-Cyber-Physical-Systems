@@ -54,7 +54,14 @@ https://user-images.githubusercontent.com/50089203/174946606-ea2f37f6-bd54-4673-
 ## Cite this work
 If you find this work useful, please consider to cite the following reference [paper](https://garrisonsun.github.io/End-to-end-atttack-detection-and-mitigation-framework/):
 ```
-To do.
+@inproceedings{sun2022securing,
+  title={Securing Cyber-Physical Systems: Physics-Enhanced Adversarial Learning for Autonomous Platoons},
+  author={Sun, Guoxin and Alpcan, Tansu and Rubinstein, Benjamin IP and Camtepe, Seyit},
+  booktitle={Joint European Conference on Machine Learning and Knowledge Discovery in Databases},
+  pages={269--285},
+  year={2022},
+  organization={Springer}
+}
 ```
 <!-- LICENSE -->
 ## License
