@@ -52,7 +52,7 @@ https://user-images.githubusercontent.com/50089203/174946606-ea2f37f6-bd54-4673-
 - [Seyit Camtepe](https://people.csiro.au/C/S/Seyit-Camtepe)
 
 ## Cite this work
-If you find this work useful, please consider to cite the following reference [paper](https://garrisonsun.github.io/End-to-end-atttack-detection-and-mitigation-framework/):
+If you find this work useful, please consider to cite the following reference [paper](https://garrisonsun.github.io/Securing-Cyber-Physical-Systems/):
 ```
 @inproceedings{sun2022securing,
   title={Securing Cyber-Physical Systems: Physics-Enhanced Adversarial Learning for Autonomous Platoons},
