@@ -21,7 +21,7 @@ This work combines cyber-physical system characteristics with deep learning to d
 <img src="Seyit.jpg" alt="Seyit Camtepe's profile picture" width="100" height="100" align="left" style="padding: 5px">Dr. [Seyit Camtepe](https://people.csiro.au/C/S/Seyit-Camtepe) is a Principal Research Scientist at CSIRO Data61. He received the PhD degree in Computer Science from Rensselaer Polytechnic Institute, New York, USA, in 2007. From 2007 to 2013, he was with the Technische Universitaet Berlin, Germany, as a Senior Researcher and Research Group Leader in Security. From 2013 to 2017, he worked as a Lecturer at the Queensland University of Technology, Australia. His research interests include topics from cyber security and ML, and applied and malicious cryptography.
 
 ## Cite this work
-If you find this work useful, please consider to cite the following reference [paper](https://garrisonsun.github.io/Securing-Cyber-Physical-Systems/):
+If you find this work useful, please consider to cite the following reference [paper](https://link.springer.com/chapter/10.1007/978-3-031-26409-2_17):
 ```
 @inproceedings{sun2022securing,
   title={Securing Cyber-Physical Systems: Physics-Enhanced Adversarial Learning for Autonomous Platoons},
